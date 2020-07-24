@@ -1,5 +1,5 @@
 123
-add dev
+add dev mode
 add master 7.24 mode
 哈哈哈哈哈
 add dev 222
